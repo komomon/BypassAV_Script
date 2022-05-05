@@ -6,7 +6,7 @@
 
 记录着各家杀软hook的api
 
-具体hook实例看文章：
+具体hook实例看文章：https://mp.weixin.qq.com/s/kGdTPnmQdB-3_Y2jy72bpA
 
 如下是bitdefender各个dllhook的API：
 
